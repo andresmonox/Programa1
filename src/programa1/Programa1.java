@@ -17,7 +17,7 @@ public class Programa1 {
     public static void main(String[] args) {
         Principal frmPrincipal = new Principal();
         frmPrincipal.show(true);
-// TODO code application logic here
+// TODO para probar cosas
     }
     
 }
